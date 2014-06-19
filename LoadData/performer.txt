@@ -1,0 +1,65 @@
+"311,etree",311,etree,sound
+"BluesTraveler,etree",Blues Traveler,etree,sound
+"bombadil,etree",bombadil,etree,sound
+"CamperVanBeethoven,etree",Camper Van Beethoven,etree,sound
+"CowboyJunkies,etree",Cowboy Junkies,etree,sound
+"Cracker,etree",Cracker,etree,sound
+"DarkStarOrchestra,etree",Dark Star Orchestra,etree,sound
+"DeathCabforCutie,etree",Death Cab for Cutie,etree,sound
+"DerekTrucksBand,etree",Derek Trucks Band,etree,sound
+"DiscoBiscuits,etree",Disco Biscuits,etree,sound
+"DiscoBiscuitsSideProjects,etree",Disco Biscuits Side Projects,etree,sound
+"Drive-ByTruckers,etree",Drive-By Truckers,etree,sound
+"EkoostikHookah,etree",Ekoostik Hookah,etree,sound
+"Furthur,etree",Furthur,etree,sound
+"GracePotterandtheNocturnals,etree",Grace Potter and the Nocturnals,etree,sound
+"GratefulDead,etree",Grateful Dead,etree,sound
+"Guster,etree",Guster,etree,sound
+"HankWilliamsIII,etree",Hank Williams III,etree,sound
+"HotButteredRum,etree",Hot Buttered Rum,etree,sound
+"JohnButlerTrio,etree",John Butler Trio,etree,sound
+"JohnMayerMusic,etree",John Mayer,etree,sound
+"KellerWilliams,etree",Keller Williams,etree,sound
+"LittleFeat,etree",Little Feat,etree,sound
+"LocalH,etree",Local H,etree,sound
+"Lotus,etree",Lotus,etree,sound
+"Matisyahu,etree",Matisyahu,etree,sound
+"MattNathanson,etree",Matt Nathanson,etree,sound
+"MaxCreek,etree",Max Creek,etree,sound
+"MichaelFrantiandSpearhead,etree",Michael Franti and Spearhead,etree,sound
+"moe,etree",moe.,etree,sound
+"Mogwai,etree",Mogwai,etree,sound
+"MyMorningJacket,etree",My Morning Jacket,etree,sound
+"OfARevolution,etree",Of A Revolution,etree,sound
+"PerpetualGroove,etree",Perpetual Groove,etree,sound
+"PhilLeshandFriends,etree",Phil Lesh and Friends,etree,sound
+"Radiators,etree",Radiators,etree,sound
+"RailroadEarth,etree",Railroad Earth,etree,sound
+"Ratdog,etree",Ratdog,etree,sound
+"RyanAdams,etree",Ryan Adams,etree,sound
+"SmashingPumpkins,etree",Smashing Pumpkins,etree,sound
+"SoundTribeSector9,etree",Sound Tribe Sector 9,etree,sound
+"SpinDoctors,etree",Spin Doctors,etree,sound
+"SteveKimock,etree",Steve Kimock,etree,sound
+"SteveKimockBand,etree",Steve Kimock Band,etree,sound
+"StockholmSyndrome,etree",Stockholm Syndrome,etree,sound
+"StringCheeseIncident,etree",String Cheese Incident,etree,sound
+"TeaLeafGreen,etree",Tea Leaf Green,etree,sound
+"TheBreakfast,etree",The Breakfast,etree,sound
+"ToadTheWetSprocket,etree",Toad The Wet Sprocket,etree,sound
+"UmphreysMcGee,etree",Umphreys McGee,etree,sound
+"WarrenZevon,etree",Warren Zevon,etree,sound
+"Ween,etree",Ween,etree,sound
+"YarnMusic,etree",Yarn,etree,sound
+"YonderMountainStringBand,etree",Yonder Mountain String Band,etree,sound
+"Zero,etree",Zero,etree,sound
+"LeftoverSalmon,etree",Leftover Salmon,etree,sound
+"DaveAlvin,etree",Dave Alvin,etree,sound
+"Cubensis,etree",Cubensis,etree,sound
+"Cornmeal,etree",Cornmeal,etree,sound
+"ConeheadBuddha,etree",Conehead Buddha,etree,sound
+"ClubdElf,etree",Club d'Elf,etree,sound
+"CharlieHunter,etree",Charlie Hunter,etree,sound
+"RyanAdams,etree",Ryan Adams,etree,sound
+"JerryJosephandtheJackmormons,etree",Jerry Joseph and the Jackmormons,etree,sound
+"BigHeadToddandtheMonsters,etree",Big Head Todd and the Monsters,etree,sound
